@@ -14,7 +14,6 @@
 
 'use strict';
 (function () {
-	'use strict';
   const LOCK_KEY = "KeyG"; // <-- Edit this if you want to change the binding key
   const ACCELERATION_MULT = 0.005;
   const TIMEOUT_MS = 50;
