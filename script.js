@@ -5,7 +5,7 @@
 // @supportURL  https://github.com/q2p/InfinitePageScroll
 // @author      q2p
 // @namespace   q2p
-// @version     0.1
+// @version     1.0
 // @match       *://*/*
 // @grant       none
 // @run-at      document-start
